@@ -79,6 +79,3 @@ python library.py
 - **Borrow a Book**: Enter the user's name and the title of the book.
 - **Return a Book**: Enter the user's name and the title of the book to return.
 
-## License
-
-This project is licensed under the MIT License.
